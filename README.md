@@ -41,10 +41,6 @@ Independent and self-driven **Software Engineer** with 5+ years of programming e
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenojack1000&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenojack1000&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
