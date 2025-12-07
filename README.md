@@ -81,6 +81,7 @@ Independent and self-driven **Software Engineer** with 5+ years of programming e
 
 ## 🎯 Current Focus
 
+- 🔬 AI Deep Dive: Applying comprehensive knowledge across Classic ML, Time Series, Computer Vision, and Generative NLP (LLMs) to solve complex enterprise problems.
 - 🔐 **Security Integration**: Implementing security practices in DevOps pipelines
 - 🏗️ **System Architecture**: Building scalable backend systems for financial applications
 - 📚 **Continuous Learning**: Exploring cloud-native technologies and microservices
