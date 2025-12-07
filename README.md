@@ -8,13 +8,16 @@
 
 Independent and self-driven **Software Engineer** with 5+ years of programming experience supporting critical operational requirements across **defense** and **financial** sectors. Passionate about building secure, scalable solutions and integrating security practices into development workflows.
 
-- 🔭 Currently working as **Backend Engineer Intern** at **Standard Chartered Bank**
+- 🧠 Currently in a journey to be an AI Engineer by being an Apprentice at **AI Singapore**
+- 🔭 Former **Backend Engineer Intern** at **Standard Chartered Bank** working with FIDO technology
 - 🛡️ Former **Aircraft Engineer** at **Republic of Singapore Air Force** with confidential clearance
 - 💡 Focused on **DevOps security**, **authentication systems**, and **secure software development**
 - 🌱 Always learning new technologies and best practices in software engineering
 - 💬 Ask me about **backend development**, **security integration**, or **military-to-tech transition**
 
 ## 🛠️ Tech Stack
+
+### 
 
 ### Frontend & UI/UX
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
